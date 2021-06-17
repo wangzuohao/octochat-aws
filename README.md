@@ -16,6 +16,7 @@
 
 This app is intended _for demonstration use only_, and is deployed using [Amazon Web Services](https://aws.amazon.com/). The architecture is explained at a high-level [here](docs/ARCHITECTURE.md).
 
+
 ## Development
 
 Create a `.env` file based on [the included example template](.env.example).
